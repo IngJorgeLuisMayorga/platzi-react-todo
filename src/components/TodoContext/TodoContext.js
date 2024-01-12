@@ -4,17 +4,17 @@ const TodoContext = React.createContext();
 const defaultTodos = [
   {
     id: 0,
-    text: "Cortar cebolla",
+    text: "Compose a Symphony of Dreams",
     completed: true,
   },
   {
     id: 1,
-    text: "Completar curso Platzi",
+    text: "Paint the Sky with Cosmic Colors",
     completed: false,
   },
   {
     id: 2,
-    text: "Completar Master Structuralia",
+    text: "Architect a Virtual Wonderland",
     completed: false,
   },
 ];
