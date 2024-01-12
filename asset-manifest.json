@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/IngJorgeLuisMayorga/platzi-react-todo/static/css/main.4fe346f5.css",
+    "main.js": "/IngJorgeLuisMayorga/platzi-react-todo/static/js/main.bbcba57e.js",
+    "static/media/bg.jpg": "/IngJorgeLuisMayorga/platzi-react-todo/static/media/bg.40fd7e746b0ad9c538ae.jpg",
+    "index.html": "/IngJorgeLuisMayorga/platzi-react-todo/index.html",
+    "main.4fe346f5.css.map": "/IngJorgeLuisMayorga/platzi-react-todo/static/css/main.4fe346f5.css.map",
+    "main.bbcba57e.js.map": "/IngJorgeLuisMayorga/platzi-react-todo/static/js/main.bbcba57e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fe346f5.css",
+    "static/js/main.bbcba57e.js"
+  ]
+}
