@@ -16,7 +16,7 @@ const icons = {
     },
     'BIN_ICON' :  function(type, action, payload, status) {   
                     return <div className="icon_bin icon__container" onClick={() => { action(payload) }}>
-                              <img src="/bin.png" alt="Delete Task Button"></img>
+                              <img src="https://ingjorgeluismayorga.github.io/platzi-react-todo/bin.png" alt="Delete Task Button"></img>
                           </div>
     },
 }

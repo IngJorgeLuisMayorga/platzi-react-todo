@@ -39,10 +39,10 @@ const {
                   <h1>CREATE NEW TASK</h1>
                   <TodoCreate doAddTask={doAddTask} />
                   {todoListIsDone && (
-                    <img src="/task_done.jpeg" alt="ToDo's App Logo" />
+                    <img src={process.env.PUBLIC_URL + '/task_done.jpeg'} alt="ToDo's App Logo" />
                   )}
                   {!todoListIsDone && (
-                    <img src="/picture.jpg" alt="ToDo's App Logo" />
+                    <img src={process.env.PUBLIC_URL + '/picture.jpg'} alt="ToDo's App Logo" />
                   )}
                 </section>
                 <section className="main__list">

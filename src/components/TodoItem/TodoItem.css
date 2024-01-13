@@ -44,14 +44,14 @@
   display: inline-block;
   width: 25px;
   height: 25px;
-  background: url("../../../public/checked_1.png") no-repeat center center;
+  background: url("https://ingjorgeluismayorga.github.io/platzi-react-todo/checked_1.png") no-repeat center center;
   background-size: 10px 10px; 
 }
 .todo__item .item__check input[type=checkbox]:checked + label {
     background-color: var(--color-purple);
   }
 .todo__item .item__check input[type=checkbox]:checked + label:before {
-    background: url("../../../public/checked_2.png") no-repeat center center;
+    background: url("https://ingjorgeluismayorga.github.io/platzi-react-todo/checked_2.png") no-repeat center center;
     background-size: 10px 10px;
   }
 

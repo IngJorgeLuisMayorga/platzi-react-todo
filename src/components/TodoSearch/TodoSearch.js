@@ -13,7 +13,7 @@ function TodoSearch({ searchValue, setSearchValue }) {
           value={searchValue}
           onChange={($event) => setSearchValue($event.target.value)}
         />
-        <img alt="icon" src="/loupe.png"/>
+        <img alt="icon" src="https://ingjorgeluismayorga.github.io/platzi-react-todo/loupe.png"/>
       </form>
   );
 }
